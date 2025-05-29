@@ -1,8 +1,22 @@
-# Hi, I'm Vedant Jain 👋
+# 👋 Hi, I'm Vedant Jain  
+🌱 Aspiring Backend Developer | Java & Spring Boot Enthusiast  
+🎯 Building real-world backend projects to showcase skills.
 
-Aspiring backend developer focused on Java and Spring Boot.  
-Currently building projects to showcase my skills.
+---
 
-🔭 Check out my [Java Projects Portfolio](https://github.com/CodesVed/Projects)  
-🌱 Learning Spring Boot, REST APIs, and backend best practices  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vedant-jain-3b0115334/) 
+## 🛠 Tech Stack
+- Java • Spring Boot • REST APIs  
+- PostgreSQL • Git & GitHub  
+- CLI Apps • Object-Oriented Design  
+- Tools: IntelliJ, Postman, Maven
+
+---
+
+## 🔗 Projects
+- [Java Projects Portfolio](https://github.com/CodesVed/Projects) 
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-jain-3b0115334/)
+- 📧 Email: ved04.dev@gmail.com
