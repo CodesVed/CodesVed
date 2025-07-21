@@ -13,7 +13,9 @@
 ---
 
 ## 🔗 Projects
-- [Java Projects Portfolio](https://github.com/CodesVed/Projects) 
+- [API-Projects](https://github.com/CodesVed/API-Hub)
+- [Full-Stack Dev](https://github.com/CodesVed/FullStack-200)
+- [CLI-Projects](https://github.com/CodesVed/Terminal-Apps)
 
 ---
 
