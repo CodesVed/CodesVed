@@ -12,13 +12,6 @@
 
 ---
 
-## 🔗 Projects
-- [API-Projects](https://github.com/CodesVed/API-Hub)
-- [Full-Stack Dev](https://github.com/CodesVed/FullStack-200)
-- [CLI-Projects](https://github.com/CodesVed/Terminal-Apps)
-
----
-
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/vedant-jain-3b0115334/)
 - 📧 Email: ved04.dev@gmail.com
