@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Vedant Jain  
-🌱 Aspiring Backend Developer | Java & Spring Boot Enthusiast  
-🎯 Building real-world backend projects to showcase skills.
+🌱 Aspiring Android Developer | Java & Kotlin Enthusiast  
+🎯 Building real-world android projects to showcase skills.
 
 ---
 
 ## 🛠 Tech Stack
-- Java • Spring Boot • REST APIs  
-- PostgreSQL • Git & GitHub  
-- CLI Apps • Object-Oriented Design  
-- Tools: IntelliJ, Postman, Maven
+- Java • Kotlin • REST APIs  
+- Android SDK • Git & GitHub • Firebase
+- Tools: IntelliJ, Android Studio
 
 ---
 
