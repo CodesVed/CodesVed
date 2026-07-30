@@ -5,12 +5,13 @@
 ---
 
 ## 🛠 Tech Stack
-- Java • Kotlin • REST APIs  
-- Android SDK • Git & GitHub • Firebase
-- Tools: IntelliJ, Android Studio
+- Kotlin • Java  
+- Android SDK • Jetpack Compose • Room DB • Viewmodel
+- Git & GitHub • Firebase • Retrofit
+- Android Studio • IntelliJ
 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-jain-3b0115334/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-jain04/)
 - 📧 Email: ved04.dev@gmail.com
